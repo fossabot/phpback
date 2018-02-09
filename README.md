@@ -1,4 +1,5 @@
 ![PHPBack](http://www.phpback.org/images/logo_300.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faquinum%2Fphpback.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faquinum%2Fphpback?ref=badge_shield)
 
 
 ## About
@@ -21,3 +22,6 @@ Install on Cloudron, a platform to effortlessly run web apps on your own server.
 PHPBack is licensed under GPLv3 (see `LICENSE.TXT` file) and it was made using Codeigniter Framework (see `system/license.txt` file).
 
 `Ivan Diaz <ivan@phpback.org> © 2014`
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faquinum%2Fphpback.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faquinum%2Fphpback?ref=badge_large)
